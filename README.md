@@ -18,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="SunnySide%20Agency%20Website/images/logo.svg" alt="SunnySide Agency Logo" width="100"/>
+<img src="SunnySide%20Agency%20Website/images/black-logo.svg" alt="SunnySide Agency Logo" width="100"/>
 
 <br />
 <br />
